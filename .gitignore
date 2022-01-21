@@ -1,0 +1,11 @@
+.idea/workspace.xml
+.idea/shelf/
+
+node_modules
+/wp-content/themes/pomorskie/bower_components/
+*.DS_Store
+/wp-content/wflogs/
+
+# Wordpress
+wp-config.php
+
